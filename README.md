@@ -38,13 +38,14 @@
 
 # Personal Projects
 <ul>
+    <li><a href="#">Automatic Covid Gateway</a></li>
+    <li><a href="#">Physcopathology Companion</a></li>
     <li><a href="#">You-we-safe</a></li>
     <li><a href="#">Custom Drone</a></li>
     <li><a href="#">Meeting Buddy</a></li>
     <li><a href="#">Home Automation</a></li>
     <li><a href="#">Autonomous Bot</a></li>
     <li><a href="#">Athithi Devo Bhava</a></li>
-
 </ul>
 
 # Freelanced Projects
