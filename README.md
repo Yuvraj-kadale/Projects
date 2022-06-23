@@ -49,9 +49,9 @@
 
 # Freelanced Projects
 <ul>
-    <li><a href="#">Email Scrapper</a></li>
-    <li><a href="#">Tools Recognition</a></li>
+    <li><a href="https://github.com/Yuvraj-kadale/Email-Scrapper">Email Scrapper</a></li>
+    <li><a href="https://colab.research.google.com/drive/1fE2CPL_70G1Q6GMNROuBZE-E9JfPDjPS">Tools Recognition (Refrenced)</a></li>
     <li><a href="https://github.com/Yuvraj-kadale/Car_parking_system">Car Parking System</a></li>
-    <li><a href="#">Project Airline</a></li>
+    <li><a href="https://github.com/Yuvraj-kadale/Project_airline">Project Airline</a></li>
     <li><a href="https://github.com/Yuvraj-kadale/QR-code-based-Excel-Attendance">Qr-code-based-attendance system</a></li>
 </ul>
